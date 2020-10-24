@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Github-Jobs-App/static/css/main.de7dd0fe.chunk.css",
+    "main.js": "/Github-Jobs-App/static/js/main.23406365.chunk.js",
+    "main.js.map": "/Github-Jobs-App/static/js/main.23406365.chunk.js.map",
+    "runtime-main.js": "/Github-Jobs-App/static/js/runtime-main.c210e106.js",
+    "runtime-main.js.map": "/Github-Jobs-App/static/js/runtime-main.c210e106.js.map",
+    "static/js/2.9a37bce8.chunk.js": "/Github-Jobs-App/static/js/2.9a37bce8.chunk.js",
+    "static/js/2.9a37bce8.chunk.js.map": "/Github-Jobs-App/static/js/2.9a37bce8.chunk.js.map",
+    "index.html": "/Github-Jobs-App/index.html",
+    "precache-manifest.6b82504f42279e9b37d65cdb745ebfcb.js": "/Github-Jobs-App/precache-manifest.6b82504f42279e9b37d65cdb745ebfcb.js",
+    "service-worker.js": "/Github-Jobs-App/service-worker.js",
+    "static/css/main.de7dd0fe.chunk.css.map": "/Github-Jobs-App/static/css/main.de7dd0fe.chunk.css.map",
+    "static/js/2.9a37bce8.chunk.js.LICENSE.txt": "/Github-Jobs-App/static/js/2.9a37bce8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c210e106.js",
+    "static/js/2.9a37bce8.chunk.js",
+    "static/css/main.de7dd0fe.chunk.css",
+    "static/js/main.23406365.chunk.js"
+  ]
+}
