@@ -4,8 +4,7 @@ const Posts = ( { posts , loading } ) => {
 
     return (
         loading ? <div><h1>Loading ...</h1></div> : 
-        posts.length === 0 ? 
-        <h1>There are no job postings</h1>  :     
+        posts.length > 0 ?     
         <ul  className = "list-group mb-4">
             <div className="container">
                 
@@ -20,7 +19,7 @@ const Posts = ( { posts , loading } ) => {
             }
             </div>
         </ul>
-        
+        : <h1>There are no job postings</h1>  
     )
 }
 

@@ -25,7 +25,7 @@ function App() {
         },
       });
       setPosts(res.data);
-      setLoading(false)
+      setTimeout(() => {setLoading(false)},2000)
     }
 
     fetchPosts()
